@@ -1,5 +1,5 @@
 ## Introduction
-Basic custom Redux features with **react hooks** and **typescript**.
+Basic custom *redux* features with **react hooks** and **typescript**.
 
 ## Installation
 * Clone this repository
